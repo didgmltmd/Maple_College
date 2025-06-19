@@ -10,12 +10,9 @@ import Test from "./TestPage.jsx";
 import Announce from "./Announce.jsx";
 
 const CHARACTER_LIST = [
-  { name: "양희승", character: "Eunweoll" },
-  { name: "장기호", character: "시그하는애" },
-  { name: "김도훈", character: "윤준수" },
-  { name: "최정재", character: "니하오윤준수" },
-  { name: "손규열", character: "Mens" },
-  { name: "홍현우", character: "BiiArkra" },
+  { name: "양희승", character: "이브까지" },
+  { name: "김강민", character: "메숭원조깡민" },
+  { name: "이규빈", character: "매화검이재명" },
 ];
 
 export default function MainPage() {
