@@ -53,7 +53,7 @@ export default function Header() {
           >
 
           <Typography variant="h6" sx={{ flexGrow: 1 }}>
-            Maple Ranking System
+            소웨과 메남들의 랭킹 System
           </Typography>
           <Typography variant="body2" color="white">
             메요일(초기화)까지 남은시간: 
