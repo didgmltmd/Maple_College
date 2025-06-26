@@ -15,6 +15,7 @@ const CHARACTER_LIST = [
   { name: "이규빈", character: "매화검이재명" },
   { name: "김계영", character: "매화꽃저물면" },
   { name: "윤준수", character: "오하요윤준수" },
+  { name: "이도영", character: "아카네리제팬" }
 ];
 
 export default function MainPage() {
