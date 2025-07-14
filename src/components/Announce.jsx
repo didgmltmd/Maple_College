@@ -43,7 +43,7 @@ export default function Announce() {
   useEffect(() => {
     (async () => {
       const list = await getAnnounceInfo();
-      console.log("공지사항 데이터:", list);
+      console.log("공지사항sdf 데이터:", list);
       setNoticeData(list);
     })();
   }, []);
