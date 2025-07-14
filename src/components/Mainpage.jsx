@@ -53,7 +53,7 @@ useEffect(() => {
         current = await getCharacterDetailInfo(ocid);
         console.log(`캐릭터 상세정보 조회 sd성공: ${input.character}`, current);
       } catch (e) {
-        console.error(`캐릭터 상세정보 실패: ${input.character}`);
+        console.error(`캐릭터 상세정보 실패sdf: ${input.character}`);
         continue;
       }
 
