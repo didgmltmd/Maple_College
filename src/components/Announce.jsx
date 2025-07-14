@@ -29,7 +29,7 @@ async function getAnnounceInfo() {
     );
     return response.data.notice || [];
   } catch (err) {
-    console.error("공지사항 조회 실패:", err);
+    console.error("공지사항 조sd회 실패:", err);
     return [];
   } finally {
     isFetching = false;
