@@ -7,6 +7,8 @@
 export default function calculateConvertedEquip(rawLine, mainStat) {
   if (!rawLine) return 0;
 
+  //"test"
+
   // ── 전처리: 공백 제거 & 대문자 통일 ──────────────────
   const line = rawLine.replace(/\s+/g, "").toUpperCase();
 
